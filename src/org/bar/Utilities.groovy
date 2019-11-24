@@ -8,7 +8,7 @@ class Utilities implements Serializable {
   }
 
   def mvn(args) {
-    println('test 12312312312312312312===========')
-    println(steps)
+    println 'test 12312312312312312312==========='
+    println steps
   }
 }
