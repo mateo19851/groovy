@@ -1,4 +1,4 @@
-package org.foo
+package org.bar
 
 class Utilities implements Serializable {
   def steps
