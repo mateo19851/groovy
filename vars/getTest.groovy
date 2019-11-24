@@ -1,3 +1,7 @@
+import org.bar.*
+
 def String call() {
-  return "21312312323131fsdsadasdasda";
+    def bar = new Bar();
+    println(bar.giveMeTest());
+    return "21312312323131fsdsadasdasda";
 }
